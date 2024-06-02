@@ -1,2 +1,2 @@
-# letsgrown project 1 
-This is a Internship Project 1
+# calculater  project 
+This is a  Practice project 
